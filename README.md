@@ -4,7 +4,7 @@ This Python program allows you to control PowerPoint slides using hand gestures 
 
 ## 📸 Demo
 
-![](E:\Learning\Python\PageTurn\page_turn.gif)
+![](page_turn.gif)
 
 
 
